@@ -1,0 +1,57 @@
+/* BGC -- Forms */
+legend, #submit {
+  font-family: PTSansCaption, georgia, "times new roman", times, serif;
+  }
+fieldset {
+  margin-bottom: 10px;
+  position: relative;
+  padding: 2.5em 1em 0.5em 1em;
+  background: #31AB00;
+  }
+fieldset fieldset {
+  padding-top: 5px;
+  border: 2px solid #082008;
+  }
+form {
+  padding: 10px 5px 7px 5px;
+  margin: 0;
+  }
+input, textarea {
+  font-size: 1em;
+  background: e3d5ba;
+  }
+legend span {
+  position: absolute;
+  left: 0;
+  font-size: 1.25em;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  }
+#contactinfo label {
+  display: block;
+  position: left;
+  margin: 24px 0;
+  }
+#contactinfo input {
+  position: absolute;
+  left: 70px
+  }
+#nameinput, #emailinput {
+  width: 30em;
+  }
+#phoneinput {
+  width: 12em;
+  }
+#submit {
+  background: #31AB00;
+  border: black;
+  font-size: 1.25em;
+  position: center;
+  }
+#submitbutton  {
+  border: none;
+  background: #31AB00;
+  font-size: 1.25em;
+  padding: 2em 0 0 0;
+  text-align: none;
+  }
